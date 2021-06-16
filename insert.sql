@@ -73,7 +73,7 @@ insert into subjects(
 ),
 (
     'Politics'
-)
+),
 (
     'History'
 );

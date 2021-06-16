@@ -16,7 +16,7 @@ insert into publisher(
     'Del Rey','UK'
 ),
 (
-    'Vinatge','UK'
+    'Vintage','UK'
 );
 
 
